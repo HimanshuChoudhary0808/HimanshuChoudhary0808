@@ -9,18 +9,17 @@
 - AWS EC2, SES, SNS
 - Stripe
 - OpenAI API
-- HTML/CSS
-- Git
-- Docker
-- 
+- Git/Bit Bucket
+- Heroku
+
 # What I build
 - SaaS Platforms
 - CRM Systems
 - AI Applications
+- eCommerce Application
 - Payment Integrations
 - API Integrations
-- Admin Dashboards
-- 
+  
 - 💞️ I'm looking to collaborate on Ruby on Rails, AI-powered applications, REST APIs, SaaS platforms, cloud-based solutions, and open-source projects.
 - 📫 📫 How to reach me: Email me at Hc080896@gmail.com or connect on LinkedIn: https://www.linkedin.com/in/himanshu-choudhary0896/
 
