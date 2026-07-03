@@ -4,7 +4,7 @@
 # Skills
 - Ruby on Rails
 - PostgreSQL
-- JavaScript
+- JavaScript, JQuery & Angular
 - REST APIs
 - AWS EC2, SES, SNS
 - Stripe
