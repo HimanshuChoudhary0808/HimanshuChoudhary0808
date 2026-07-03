@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HimanshuChoudhary0808
+- 👋 Hi, I’m Himanshu Choudhary
 - 👀 I'm Ruby on Rails Developer specializing in scalable web apps, REST APIs, cloud deployment, payment systems, and AI-powered integrations (OpenAI/LLMs)
 - 🌱I have 4+ years of experience building scalable, secure, and high-performance web applications and backend systems.
 # Skills
